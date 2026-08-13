@@ -4,7 +4,7 @@ Made for SNHU's Introduction to Scripting python course, where I went extremely 
 
 ## Story
 
-You are an [ancient hors](https://en.wikipedia.org/wiki/Equus_scotti), and your world is dying. When searching for answers for how to save your family, a crow appears. It invites you to fox's wedding; if you bring gifts then, just maybe, you'll get something in return.
+You are an [ancient horse](https://en.wikipedia.org/wiki/Equus_scotti), and your world is dying. When searching for answers for how to save your family, a crow appears. It invites you to fox's wedding; if you bring gifts then, just maybe, you'll get something in return.
 
 ## How to run
 
